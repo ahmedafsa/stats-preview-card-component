@@ -191,6 +191,6 @@ body {
 
   .card-stats {
     flex-direction: column;
-    gap: 2rem;
+    gap: 3rem;
   }
 }
